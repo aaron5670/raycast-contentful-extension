@@ -6,6 +6,7 @@ A Raycast extension that allows you to search Contentful entries across multiple
 
 - **Multi-Space Search**: Search across multiple Contentful spaces simultaneously
 - **Real-time Search**: Instant results as you type (minimum 2 characters)
+- **Content Type Filter**: Filter results by content type using the dropdown
 - **Smart Title Extraction**: Automatically finds the best display title from common field names
 - **Quick Actions**: Open entries in Contentful Web App, copy IDs and URLs
 - **Rich Display**: See space name, content type, and last modified date at a glance
@@ -45,9 +46,10 @@ A Raycast extension that allows you to search Contentful entries across multiple
 ## Usage
 
 1. Open Raycast
-2. Type "Search Contentful Entries" to launch the command
+2. Type "Contentful Entries Search" to launch the command
 3. Start typing to search across all configured spaces
-4. Results appear in real-time (minimum 2 characters)
+4. Use the dropdown to filter by content type (optional)
+5. Results appear in real-time (minimum 2 characters)
 
 ### Actions
 
