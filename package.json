@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "contentful",
+  "name": "contentful-multi-space",
   "title": "Contentful (Multi-Space support)",
   "description": "Search for entries across multiple Contentful spaces. Configure which spaces to include in the extension preferences.",
   "icon": "extension-icon.png",
